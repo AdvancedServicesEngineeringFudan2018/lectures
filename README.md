@@ -51,3 +51,10 @@ The demo day will be 18 July 2018. Students will present project presentation an
 During the course, students will have to propose a mini project and implement the project within the course. The list of the [student project can be found here](https://github.com/AdvancedServicesEngineeringFudan2018). Several examples of previous ASE projects from other students can be found from http://www.infosys.tuwien.ac.at/teaching/courses/ase/.
 
 During the intensive schedule of the course, student projects are running like a hackathon: everyday students will have to code and update their git project incrementally. At the end of the course, we will run a demo session where we will see the project.
+
+# Other resources
+
+* The [TU Wien Advanced Services Engineering course](http://www.infosys.tuwien.ac.at/teaching/courses/ase/)
+* The [TU Wien Distributed Systems Technologies course](http://www.infosys.tuwien.ac.at/staff/truong/dst/) lectures many technologies, design patterns and examples.
+* [IoTCloudSamples](https://github.com/rdsea/IoTCloudSamples) as a collection of IoT, Cloud and Network function services and service systems.
+* [Examples](https://github.com/linhsolar/distributedsystemsexamples) of distributed systems and applications code
