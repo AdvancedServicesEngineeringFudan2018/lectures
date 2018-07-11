@@ -23,7 +23,15 @@ All the information will be available in the git project. Here is [an example of
 
 ### Lab: Lab on identifying application-specific services and platform services, presentation of scenarios and services
 
-Students should be able to identify key application-specific services and platform services. They should be able to show their initial scenario and services. They should be aware that the scenario and its services will be evovled.
+Students should be able to identify key application-specific services and platform services. They should be able to show their initial scenario and services. They should be aware that the scenario and its services will be evolved.
+
+So what do we expect from this lab:
+
+* Outline main building blocks of your scenario
+* Outline platform services and application services
+* Outline data and possible ways for having data for the scenario
+
+These points can be described into a document about the design of the  scenario.
 
 # Demo Day
 
@@ -31,6 +39,6 @@ The demo day will be 18 July 2018. Students will present project presentation an
 
 # Student Projects
 
-During the course, students will have to propose a mini project and implement the project within the course. The list of the [student project can be found here](https://github.com/AdvancedServicesEngineeringFudan2018).
+During the course, students will have to propose a mini project and implement the project within the course. The list of the [student project can be found here](https://github.com/AdvancedServicesEngineeringFudan2018). Several examples of previous ASE projects from other students can be found from http://www.infosys.tuwien.ac.at/teaching/courses/ase/.
 
-During the intensive schedule of the course, student projects are running like a hackathon: everyday students will have to code and update their git project increamentally. At the end of the course, we will run a demo session where we will see the project.
+During the intensive schedule of the course, student projects are running like a hackathon: everyday students will have to code and update their git project incrementally. At the end of the course, we will run a demo session where we will see the project.
