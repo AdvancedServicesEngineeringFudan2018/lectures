@@ -10,7 +10,12 @@ The detailed program is [listed here](ase-fist2018-overview.pdf).
 
 ## Lecture 1: Emerging distributed systems and challenges for services engineering
 
+
 ### Lecture content
+
+We will discuss about challenges for services engineering given the emerging types of distributed systems and platforms. We especially look at real-world examples to learn the key elements of complex software services.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture1-dss-challenges.pdf).
 
 ### Lab on identifying scenarios (requirements, datasets, and business models)
 
@@ -20,6 +25,10 @@ All the information will be available in the git project. Here is [an example of
 
 ## Lecture 2: The role of IoT, Cloud systems, Blockchain and Machine Learning as a service
 ### Lecture content
+
+We examine the role of clouds, IoT, machine learning and blockchain in a complex software service system and try to understand how we can leverage them for building complex software services.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture2-IoTCloudMLBlockchainSystems.pdf).
 
 ### Lab: Lab on identifying application-specific services and platform services, presentation of scenarios and services
 
