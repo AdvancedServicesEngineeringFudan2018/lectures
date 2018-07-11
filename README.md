@@ -7,7 +7,7 @@ The ASE Course at Fudan University is jointly run by [Hong-Linh Truong](http://w
 **The key activities are: learn lecture materials, discuss topics, design software services, and coding the design everyday during the lecture period, following the devops and agile principles, resulting in not only knowledge gained but also a mini open-source prototype.**
 
 
-The detailed program is [listed here](ase-fist2018-overview.pdf).
+The detailed program is [listed here](ase-fist2018-overview.pdf). The material for the course is mainly based on the previous ASE courses at TU Wien, with some customization and specific issues suitable for Fudan students.
 
 # Lectures
 
