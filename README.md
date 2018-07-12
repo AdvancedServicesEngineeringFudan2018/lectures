@@ -47,6 +47,32 @@ So what do we expect from this lab:
 
 These points can be described into a document about the design of the  scenario.
 
+## Lecture 3: Data as a Service, Data Marketplace and Data Lake – Models, Data Concerns and Engineering
+
+### Lecture content
+
+We examine models of data-as-a-service, data marketplace and data lakes. We study possible data concerns associated with data.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture3-daas_datalake_datamarket_dataconcerns.pdf).
+
+### Lab: Lab on desiging data sources for the scenario and data concerns
+
+Data sources for the mini project/scenario will be data-as-a-service, data marketplace or data lakes. Students should be able to make sure that their components will receive data from such sources (e.g., Tracking data, Weather information) with well-defined interfaces and protocols. For this, students may need to build DaaS wrapping existing/simulation data sources.
+
+Second, students must be able to identify some key important data concerns (e.g., data quality) and they must be able to consider data concerns in the scenario, e.g., remove bad data or check bad data and run suitable algorithms for processing bad data.
+
+## Lecture 4: Big data service systems: Models, Elasticity, and Platforms
+
+### Lecture content
+
+We examine existing big data service systems. In particular, we focus on state-of-the-art systems and how to design elasticity with these systems.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture4-bigdatasystems.pdf).
+
+### Lab: Lab on design and develop analytics features
+
+In this lab, students will work on data ingestion and analytics features for their scenario. From the data sources in the previous lab, data will be ingested or analyzed by some services developed by students. This lab concentrates on the data processing of data from these sources.
+
 # Demo Day
 
 The demo day will be 18 July 2018. Students will present project presentation and demonstrate their work.
