@@ -26,7 +26,7 @@ Students have to create their git project with basic readme file. They have to w
 
 All the information will be available in the git project. Here is [an example of the template for the scenario description](ase-scenario-template.pdf).
 
-** Note: by 11.30, July 12, 2018, we should have the initial scenario for each team in the Git. Each team should have  2-3 members.**
+**Note: by 11.30, July 12, 2018, we should have the initial scenario for each team in the Git. Each team should have  2-3 members.**
 
 ## Lecture 2: The role of IoT, Cloud systems, Blockchain and Machine Learning as a service
 ### Lecture content
