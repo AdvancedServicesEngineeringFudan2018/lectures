@@ -99,3 +99,6 @@ We have [some lessons learned that we document here](Lessonslearned.md)
 * The [TU Wien Distributed Systems Technologies course](http://www.infosys.tuwien.ac.at/staff/truong/dst/) lectures many technologies, design patterns and examples.
 * [IoTCloudSamples](https://github.com/rdsea/IoTCloudSamples) as a collection of IoT, Cloud and Network function services and service systems.
 * [Examples](https://github.com/linhsolar/distributedsystemsexamples) of distributed systems and applications code
+* [TU Wien student project ASE 2018](https://github.com/AdvancedServicesEngineeringTUWien2018)
+* [TU Wien student project ASE 2017](https://github.com/AdvancedServicesEngineeringTUWien2017)
+* [TU Wien student project ASE 2016](https://github.com/AdvancedServicesEngineeringTUWien2016)
