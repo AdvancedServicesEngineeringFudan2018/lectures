@@ -63,7 +63,7 @@ Second, students must be able to identify some key important data concerns (e.g.
 
 **Lab report: at 14:00 students will report their initial decision/design on data concerns for their project.**
 
-## Lecture 4: Big data service systems: Models, Elasticity, and Platforms
+## Lecture 4: Big data service systems: Models and Platforms
 
 ### Lecture content
 
@@ -77,9 +77,28 @@ In this lab, students will work on data ingestion and analytics features for the
 
 **Lab report: at 16:30 a short (5 minutes each team) report for the possible services/frameworks for data analytics within the project.**
 
-## Lecture 5
+## Lecture 5: Principles of Elasticity for Service systems
 
-## Lec
+
+### Lecture content
+
+Students will learn basic ideas of elasticity for service systems.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture5-elasticity.pdf).
+
+
+## Lecture 6: Quality-aware data analytics services
+
+### Lecture content
+
+We examine existing big data service systems. In particular, we focus on state-of-the-art systems and how to design elasticity with these systems.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture6-qorda.pdf)
+ 
+### Lab: incorporating quality-aware features and elasticity into services
+
+In this lab, students will examine quality features in their services and define elasticity functions for their services. Such functions will be implemented through service models, such as offering higher quality results given higher price and less response time.
+
 # Demo Day
 
 The demo day will be 18 July 2018. Students will present project presentation and demonstrate their work.
