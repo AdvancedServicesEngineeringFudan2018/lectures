@@ -4,7 +4,9 @@ The Advanced Services Engineering (ASE) is a course lectured by [Hong-Linh Truon
 
 The ASE Course at Fudan University is jointly run by [Hong-Linh Truong](http://www.infosys.tuwien.ac.at/staff/truong) and [Liang ZHANG (Leon)](http://www.cs.fudan.edu.vn/en/?page_id=2303).
 
-**The key activities are: learn lecture materials, discuss topics, design software services, and coding the design everyday during the lecture period, following the devops and agile principles, resulting in not only knowledge gained but also a mini open-source prototype.**
+The course is carried out in a combination of conventional lecture, hackathon and summer school work.
+
+**The key activities are: learn lecture materials, discuss topics, design software services, and coding the design everyday during the lecture period, following the DevOps and agile principles, resulting in not only knowledge gained but also a mini open-source prototype.**
 
 
 The detailed program is [listed here](ase-fist2018-overview.pdf). The material for the course is mainly based on the previous ASE courses at TU Wien, with some customization and specific issues suitable for Fudan students.
