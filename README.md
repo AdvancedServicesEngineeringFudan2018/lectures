@@ -77,8 +77,9 @@ In this lab, students will work on data ingestion and analytics features for the
 
 **Lab report: at 16:30 a short (5 minutes each team) report for the possible services/frameworks for data analytics within the project.**
 
-## Lecture 5: Principles of Elasticity for Service systems
+**Lab: we continue to the present the design and discussion in next Monday 16 July**
 
+## Lecture 5: Principles of Elasticity for Service systems
 
 ### Lecture content
 
@@ -94,7 +95,7 @@ Download [the slides of the lecture](truong-ase-fudan-2018-lecture5-elasticity.p
 We examine existing big data service systems. In particular, we focus on state-of-the-art systems and how to design elasticity with these systems.
 
 Download [the slides of the lecture](truong-ase-fudan-2018-lecture6-qorda.pdf)
- 
+
 ### Lab: incorporating quality-aware features and elasticity into services
 
 In this lab, students will examine quality features in their services and define elasticity functions for their services. Such functions will be implemented through service models, such as offering higher quality results given higher price and less response time.
