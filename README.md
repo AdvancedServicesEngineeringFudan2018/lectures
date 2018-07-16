@@ -102,6 +102,17 @@ Download [the slides of the lecture](truong-ase-fudan-2018-lecture6-qorda.pdf)
 
 In this lab, students will examine quality features in their services and define elasticity functions for their services. Such functions will be implemented through service models, such as offering higher quality results given higher price and less response time.
 
+## Lecture 7: Engineering Human-based Services in Hybrid Computing  Systems
+
+### Lecture content
+We examine the role of human-in-the-loop in complex services.
+
+Download [the slides of the lecture](truong-ase-fudan-2018-lecture7-humandataanalytics.pdf)
+
+### Lab: incorporating human-in-the-loop
+
+In this lab, students will find suitable tasks that need human capabilities. And then students will implement a feature that invokes human to perform the task.
+
 # Demo Day
 
 The demo day will be 18 July 2018. Students will present project presentation and demonstrate their work.
