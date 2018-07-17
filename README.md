@@ -112,6 +112,14 @@ Download [the slides of the lecture](truong-ase-fudan-2018-lecture7-humandataana
 ### Lab: incorporating human-in-the-loop
 
 In this lab, students will find suitable tasks that need human capabilities. And then students will implement a feature that invokes human to perform the task.
+## Project discussion session
+We run a project discussion session where we ask students:
+
+* what has been achieved? can you show some results?
+* what are the main obstacles?
+* who does what: plan and responsibility
+
+students have presented and clarified their work and we work on helping students to move on with their projects.
 
 # Demo Day
 
